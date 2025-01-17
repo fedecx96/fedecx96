@@ -8,7 +8,8 @@ Cybersecurity Specialist | SOC Analyst Junior
 *   🎯 Completato il corso full-time di 3 mesi di Epicode in CyberSecurity
 *   💻 Background di programmazione e Web Design
 *   🚀 Mi piace affrontare sfide stimolanti, risolvere problemi complessi e imparare ogni giorno qualcosa di nuovo, divertendomi
-*   🖥️  Qui trovi il [repository dei progetti Epicode](http://github.com/fedecx96/progettiEpicode)
+*   🧠 In continuo aggiornamento
+*   🖥️ Qui trovi il [repository dei progetti Epicode](http://github.com/fedecx96/progettiEpicode)
 
 Skills
 ---------------------------------------------

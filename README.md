@@ -1,7 +1,7 @@
 Ciao![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Sono Federico
 ================================================================================================================================
 
-Cybersecurity Specialist Junior| Ethical Hacker | SOC Analyst
+Cybersecurity Specialist Junior | Ethical Hacker | SOC Analyst
 ---------------------------------------------
 
 *   🛡️ Mi appassiona l’idea di proteggere sistemi e reti, anticipando le minacce e costruendo difese solide contro ogni tipo di attacco
